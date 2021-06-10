@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/879479119/react-native-shadow"
   },
+  "types": "./lib/react-native-shadow.d.ts",
   "keywords": [
     "react-native",
     "react-native-shadow",

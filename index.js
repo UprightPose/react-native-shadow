@@ -6,6 +6,5 @@
 
 import BoxShadow from './lib/BoxShadow'
 import BorderShadow from './lib/BorderShadow'
-export * from './lib/react-native-shadow'
 export {BoxShadow, BorderShadow}
 //BorderShadow only support top and bottom shadow now
